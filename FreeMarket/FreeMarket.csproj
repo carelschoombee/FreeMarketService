@@ -530,6 +530,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Images\AboutUs.jpg" />
+    <Content Include="Content\Images\delivery.jpg" />
     <Content Include="Content\Images\MasterCard.png" />
     <Content Include="Content\Images\PayGate-3D-Secure-Logo-MasterCard-SecureCode-Small.png" />
     <Content Include="Content\Images\PayGate-3D-Secure-Logo-MasterCard-SecureCode.png" />
